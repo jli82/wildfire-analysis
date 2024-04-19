@@ -22,4 +22,8 @@ The dataframe with the results got exported to a CSV file named final_df_with_re
 
 ## INSTALLATION
 
-
+### 1. Clone repository
+'''bash
+git clone <repository_url>
+cd <repository_folder>
+'''
