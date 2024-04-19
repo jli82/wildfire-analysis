@@ -40,7 +40,11 @@ Steps
 3. Run `main.ipynb` to clean data, perform exploratory data analysis, and build the model.
 Note: You can skip the section “Testing using Basic Model” to save some time. 
 
-After running `main.ipynb`, you should be able to see our model results and performance. It should also create a csv file named “final_df_with_results”. This is the csv file we used to create the dashboard in Tableau. 
+4. After running `main.ipynb`, you should be able to see our model results and performance. It should also create a csv file named “final_df_with_results”. This is the csv file we used to create the dashboard in Tableau.
+
+5. Run the SQL query in `fips_edit_query` file to create a state_fips_codes table that we used to assist in creating the dashboard. Export the table as CSV.
+
+6. Load the datasets into Tableau to start creating the dashboard.
 
 ## EXECUTION [How to run a demo on your code] 
 
